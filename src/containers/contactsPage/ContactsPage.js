@@ -53,7 +53,7 @@ export const ContactsPage = ({contacts, addContanct}) => {
       <hr />
       <section>
         <h2>Contacts</h2>
-        <TileList contacts />
+        <TileList contacts={contacts} />
       </section>
     </div>
   );
