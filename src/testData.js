@@ -15,3 +15,16 @@ export const contactData = [
         email: "leo.deeznutz@hotmail.com"
     }
 ]
+
+export const appointmentData = [
+    {
+        name: "deez",
+        date: "01/01/2023",
+        time: "4:30PM"
+    },
+    {
+        name: "nutz",
+        date: "05/05/2025",
+        time: "7:30PM"
+    }
+]
